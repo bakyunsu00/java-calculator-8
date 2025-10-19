@@ -27,6 +27,6 @@ git clone -b bakyunsu00 --single-branch https://github.com/bakyunsu00/java-calcu
 
 ### 문자열 계산
 
-- 커스텀(기본) 구분자로 문자열을 구분한 후 문자들의 합을 반환한다. 
+- 구분자로 문자열을 구분한 후 문자들의 합을 반환한다. 
 
 - 사용자가 잘못된 값을 입력할 경우 IllegalArgumentException을 발생시킨 후 애플리케이션은 종료된다.

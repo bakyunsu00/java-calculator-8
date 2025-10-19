@@ -2,6 +2,10 @@
 
 ---
 
+> 우아한테크코스 프리코스 1주차 미션 문자열 덧셈 계산기를 구현한 저장소입니다.
+
+
+
 레포지토리를 Clone 하고 IDE에서 애플리케이션을 실행합니다.
 
 ```git
@@ -12,7 +16,7 @@ git clone -b bakyunsu00 --single-branch https://github.com/bakyunsu00/java-calcu
 
 
 
-> 우아한테크코스 프리코스 1주차 미션 문자열 덧셈 계산기를 구현한 저장소입니다.
+
 
 ## 기능 목록
 
